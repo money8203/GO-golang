@@ -1,6 +1,6 @@
 # Golang
 
-This repository will contain my learnings and projects related to the Go programming language. Here, I will share my code and resources related to Go, including projects, tutorials, and tips.
+This repository will contain my learnings related to the Go programming language. Here, I will share my code and resources related to Go, including projects, tutorials, and tips.
 
 ## Table of Content
 - Notes
