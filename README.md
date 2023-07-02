@@ -3,7 +3,7 @@
 This repository contains my learnings related to the Go programming language. Here, I've shared my projects, resources and tips related to Go.
 
 ## Table of Content
-- Notes
+- [Notes](notes)
 - [Projects](Projects)
 - Tips and Tricks
 
